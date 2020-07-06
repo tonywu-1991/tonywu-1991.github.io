@@ -1,0 +1,12 @@
+#outer {
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    text-align: right;
+    vertical-align: bottom;
+}
+.bottomright {
+    position: absolute;
+    bottom: 0px;
+    right:0px;
+}
